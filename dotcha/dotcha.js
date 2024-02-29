@@ -1,4 +1,4 @@
-var demo_inputStrs = ['DOTCHA', 'R@EB!D', 'ATXEOP', 'OHVFPS', 'LTXFDA', 'XCTEPA'];
+var demo_inputStrs = ['DOTCHA', 'RAEB!D', 'ATXEOP', 'OHVFPS', 'LTXFDA', 'XCTEPA'];
 var demo_eraseRatios = [0.15, 0.3, 0.3, 0.2, 0.2, 0.2];
 var demo_sphereSizes = [0.5, 0.5, 0.35, 0.5, 0.35, 0.35];
 var demo_sphereOffsetRanges = [0, 0.2, 0.2, 0.3, 0.3, 0.3];
